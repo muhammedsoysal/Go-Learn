@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "categoryId": "1",
+      "unitPrice": 1599.99
+    },
+    {
+      "id": 2,
+      "productName": "Mouse",
+      "categoryId": "1",
+      "unitPrice": 1599.99
+    },
+    {
+      "id": 3,
+      "productName": "Wate",
+      "categoryId": "2",
+      "unitPrice": 5.5
+    },
+    {
+      "id": 4,
+      "productName": "Telephone",
+      "categoryId": 1,
+      "unitPrice": 500
+    },
+    {
+      "id": 5,
+      "productName": "M3 Macbook",
+      "categoryId": 1,
+      "unitPrice": 500
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Technology"
+    },
+    {
+      "id": 2,
+      "categoryName": "Bevarages"
+    }
+  ]
+}
